@@ -1,3 +1,11 @@
+.head {
+    background-color: rgb(5, 5, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 20px;
+    color: white;
+}
+
 body {
     background-color: rgb(28, 58, 128);
     font-family: Arial, Helvetica, sans-serif;
@@ -5,8 +13,19 @@ body {
 }
 
 .post {
-    background: #0596f7;
+    background: #ffffff;
     padding: 20px;
-    
+    border: 2px;
+    border-radius: 5%;
 } 
 
+footer{
+    background: rgb(5, 5, 5);
+    padding: 2px;
+    text-align: center;
+    color: white;
+} 
+.imagempost{
+    height: 200px;
+    width: 200px;
+}
